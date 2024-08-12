@@ -1,0 +1,20 @@
+#   ____   ____  __  __  _____  _  _  ____   ___ 
+#  (  _ \ ( ___)(  \/  )(  _  )( \( )(_  _) / __)
+#   )(_) ) )__)  )    (  )(_)(  )  (  _)(_ ( (__ 
+#  (____/ (____)(_/\/\_)(_____)(_)\_)(____) \___)
+#   ___  _  _  ___  ____  ____  __  __    ____  ____  _____  ____ 
+#  / __)( \/ )/ __)(_  _)( ___)(  \/  )  (  _ \(  _ \(  _  )(  _ \
+#  \__ \ \  / \__ \  )(   )__)  )    (    )___/ )   / )(_)(  )___/
+#  (___/ (__) (___/ (__) (____)(_/\/\_)()(__)  (_)\_)(_____)(__)  
+
+# DISPLAY TWEAK
+ro.vendor.display.foss=1
+debug.egl.recordable.rgba8888=1
+vendor.display.foss.config=1
+vendor.display.foss.config_path=/vendor/etc/FOSSConfig.xml
+vendor.display.adaptive_saturation_parameter=1.1574,-0.0426,-0.0426,-0.143,1.057,-0.143,-0.0144,-0.0144,1.1856
+vendor.display.adaptive_white_coefficient=0.0031,0.5535,-87.498,0.0031,0.5535,-87.498,0.0031,0.5535,-87.498
+vendor.display.disable_rotator_downscale=1
+vendor.display.disable_inline_rotator=1
+persist.sys.sf.color_saturation=1.1
+persist.sys.sf.native_mode=2
